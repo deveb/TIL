@@ -28,3 +28,11 @@
   * [Fibonacci](algorithm/programmers.co.kr/fibonacci.md)
 * [eunb.it](http://eunb.it)
 
+## coursera
+
+* [Probability and Statistics](coursera/probability-and-statistics.md)
+* [Algorithms Specializations](coursera/algorithms-specializations/README.md)
+  * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/README.md)
+    * [inversions](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/inversions.md)
+    * [karatsuba](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/karatsuba.md)
+

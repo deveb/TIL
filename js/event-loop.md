@@ -1,3 +1,7 @@
+---
+description: 'https://asfirstalways.tistory.com/362'
+---
+
 # Event Loop
 
 * JS Engine은 인터프리터이다. 서버 사이드에선 V8
@@ -12,6 +16,4 @@
   * Event Loop 는 현재 실행중인 태스크가 없는지 태스크 큐에 태스크가 있는지 반복적으로 확인. Task Queue에서 대기하고있다가 Call Stack으로 호출되어 처리됨.
   * Web API: setTimeout, requestAnimationFrame, Promise 등등
     * Microtask Queue → Animation frames → Task Queue
-
-[https://asfirstalways.tistory.com/362](https://asfirstalways.tistory.com/362)
 

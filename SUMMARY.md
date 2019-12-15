@@ -9,7 +9,7 @@
 
 ## Algorithm
 
-* [leetcode.com](algorithm/leetcode.com/README.md)
+* [leetcode](algorithm/leetcode.com/README.md)
   * [22.GenerateParentheses](algorithm/leetcode.com/22.generateparentheses.md)
   * [46.Permutations](algorithm/leetcode.com/46.permutations.md)
   * [94.BinaryTreeInorderTraversal](algorithm/leetcode.com/94.binarytreeinordertraversal.md)
@@ -18,7 +18,7 @@
   * [238.ProductOfArrayExceptSelf](algorithm/leetcode.com/238.productofarrayexceptself.md)
   * [283.MoveZeroes](algorithm/leetcode.com/283.movezeroes.md)
   * [347.TopKFrequentElements.](algorithm/leetcode.com/347.topkfrequentelements..md)
-* [programmers.co.kr](algorithm/programmers.co.kr/README.md)
+* [programmers](algorithm/programmers.co.kr/README.md)
   * [Sort](algorithm/programmers.co.kr/sort.md)
   * [Hash](algorithm/programmers.co.kr/hash/README.md)
     * [42576](algorithm/programmers.co.kr/hash/42576.md)
@@ -30,7 +30,7 @@
 
 ## coursera
 
-* [Probability and Statistics](coursera/probability-and-statistics.md)
+* [Probability and Statistics: To p or not to p?](coursera/probability-and-statistics.md)
 * [Algorithms Specializations](coursera/algorithms-specializations/README.md)
   * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/README.md)
     * [inversions](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/inversions.md)

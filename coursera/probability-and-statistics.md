@@ -1,4 +1,8 @@
-# Probability and Statistics
+---
+description: 'https://www.coursera.org/learn/probability-statistics'
+---
+
+# Probability and Statistics: To p or not to p?
 
 ## week 1, Probability and Statistics: To p or not to p?
 

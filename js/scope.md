@@ -1,7 +1,3 @@
----
-description: 'https://meetup.toast.com/posts/86'
----
-
 # Scope
 
 * 자바스크립트\(ES6\)는 함수 레벨과 블록 레벨의 렉시컬 스코프규칙을 따른다.
@@ -14,4 +10,6 @@ description: 'https://meetup.toast.com/posts/86'
     * JS는 호출 스택과 관계 없이 런타임에 변경시키지 않음. eval, with으로 가능하긴 하지만 비권장
   * 중첩 스코프\(스코프 체인 혹은 스코프 버블\)
     * ECMA 명세에서는 Lexical environment, Environment Record 라는 개념으로 정의됨
+
+자바스크립트의 스코프와 클로저 [https://meetup.toast.com/posts/86](https://meetup.toast.com/posts/86)
 

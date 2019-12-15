@@ -1,6 +1,6 @@
 # Table of contents
 
-* [til.eunb.it](README.md)
+* [Introduction](README.md)
 
 ## Algorithm
 
@@ -34,5 +34,8 @@
   * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/README.md)
     * [inversions](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/inversions.md)
     * [karatsuba](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/karatsuba.md)
+
+## Links
+
 * [eunb.it](http://eunb.it)
 

@@ -2,11 +2,6 @@
 
 * [til.eunb.it](README.md)
 
-## JS
-
-* [Scope](js/scope.md)
-* [Event Loop](js/event-loop.md)
-
 ## Algorithm
 
 * [leetcode](algorithm/leetcode.com/README.md)
@@ -26,7 +21,11 @@
   * [Stack/Queue](algorithm/programmers.co.kr/stack-queue.md)
   * [DFS/BFS](algorithm/programmers.co.kr/dfs-bfs.md)
   * [Fibonacci](algorithm/programmers.co.kr/fibonacci.md)
-* [eunb.it](http://eunb.it)
+
+## JS
+
+* [Scope](js/scope.md)
+* [Event Loop](js/event-loop.md)
 
 ## coursera
 
@@ -35,4 +34,5 @@
   * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/README.md)
     * [inversions](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/inversions.md)
     * [karatsuba](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/karatsuba.md)
+* [eunb.it](http://eunb.it)
 

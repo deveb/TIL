@@ -1,2 +1,0 @@
-# programmers.co.kr
-

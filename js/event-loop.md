@@ -13,5 +13,3 @@
   * Web API: setTimeout, requestAnimationFrame, Promise 등등
     * Microtask Queue → Animation frames → Task Queue
 
-[https://asfirstalways.tistory.com/362](https://asfirstalways.tistory.com/362)
-

@@ -25,6 +25,7 @@
 ## WWW
 
 * [REST API](www/rest-api.md)
+* [Google JSON Style Guide](www/google-json-style-guide.md)
 
 ## JS
 

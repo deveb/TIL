@@ -50,4 +50,11 @@
 * 그렇다면 우리가 말하는 REST API 는? REST API가 아니라 Resourceful API에 가까움
   * 웹페이지는 HTML, API는 JSON
   * JSON 은 Hyperlink 가 정의되어있지 않음. Self-descriptive도 불완전함. 별도 API 문서가 필요. key: value 에 대한 설명이 안됨
+  * 방법: data, 헤더 활용하면 좋음
+    1. 미디어 타입을 정의하고 IANA에 등록한다. 번거로움이 있다.
+    2. Profile 이용. Link에 rel을 profile. 클라가 Link, profile 이해해야함. 미디어타입이 아니기때문에 Content-Type negotiation 불가
+       * Link: &lt;https://...&gt;, rel="profile"
+    3. data에 하이퍼링크 표현. 프로필문서, 미디어 타입 등 링크 표현 방식을 정의해야함. 하이퍼링크 표현 방법을 정의한 명세들이 있다.
+    4. HTTP 헤더로 Link, Location 등의 링크 표현
+* REST 하려면 Self-descriptive와 HATEOAS를 만족하자. 아니면 Resourceful API로 셀프 만족하자.
 

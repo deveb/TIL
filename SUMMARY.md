@@ -21,6 +21,7 @@
   * [Heap](algorithm/programmers.co.kr/heap.md)
   * [Stack/Queue](algorithm/programmers.co.kr/stack-queue.md)
   * [DFS/BFS](algorithm/programmers.co.kr/dfs-bfs.md)
+  * [\[WIP\] Shortest Path Problem](algorithm/programmers.co.kr/shortest-path-problem.md)
   * [Fibonacci](algorithm/programmers.co.kr/fibonacci.md)
 
 ## WWW
@@ -38,8 +39,10 @@
 * [Probability and Statistics: To p or not to p?](coursera/probability-and-statistics.md)
 * [Algorithms Specializations](coursera/algorithms-specializations/README.md)
   * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/README.md)
-    * [inversions](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/inversions.md)
-    * [karatsuba](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/karatsuba.md)
+    * [week 1](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-1/README.md)
+      * [karatsuba](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-1/karatsuba.md)
+    * [week 2](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-2/README.md)
+      * [inversions](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-2/inversions.md)
 
 ## Links
 

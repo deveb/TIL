@@ -43,6 +43,7 @@
       * [karatsuba](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-1/karatsuba.md)
     * [week 2](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-2/README.md)
       * [inversions](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-2/inversions.md)
+    * [week 3](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-3.md)
 
 ## Links
 

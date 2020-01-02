@@ -9,6 +9,7 @@
   * [46.Permutations](algorithm/leetcode.com/46.permutations.md)
   * [78.Subsets](algorithm/leetcode.com/78.subsets.md)
   * [94.BinaryTreeInorderTraversal](algorithm/leetcode.com/94.binarytreeinordertraversal.md)
+  * [169. Majority Element](algorithm/leetcode.com/169.-majority-element.md)
   * [206.ReverseLinkedList](algorithm/leetcode.com/206.reverselinkedlist.md)
   * [237.DeleteNodeInALinkedList](algorithm/leetcode.com/237.deletenodeinalinkedlist.md)
   * [238.ProductOfArrayExceptSelf](algorithm/leetcode.com/238.productofarrayexceptself.md)

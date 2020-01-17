@@ -9,6 +9,7 @@
   * [46.Permutations](algorithm/leetcode.com/46.permutations.md)
   * [78.Subsets](algorithm/leetcode.com/78.subsets.md)
   * [94.BinaryTreeInorderTraversal](algorithm/leetcode.com/94.binarytreeinordertraversal.md)
+  * [145. Binary Tree Postorder Traversal](algorithm/leetcode.com/145.-binary-tree-postorder-traversal.md)
   * [169. Majority Element](algorithm/leetcode.com/169.-majority-element.md)
   * [206.ReverseLinkedList](algorithm/leetcode.com/206.reverselinkedlist.md)
   * [230. Kth Smallest Element in a BST](algorithm/leetcode.com/230.-kth-smallest-element-in-a-bst.md)

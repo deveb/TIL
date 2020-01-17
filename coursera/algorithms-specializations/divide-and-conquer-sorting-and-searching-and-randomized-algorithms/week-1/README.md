@@ -24,7 +24,7 @@ apropos 에 관하여
 
 Recursive algorithms need a base case.
 
-![](../../../../.gitbook/assets/image%20%282%29.png)
+![](../../../../.gitbook/assets/image%20%283%29.png)
 
 ```text
 gloss over: 얼버무리고 넘어가다

@@ -11,6 +11,7 @@
   * [94.BinaryTreeInorderTraversal](algorithm/leetcode.com/94.binarytreeinordertraversal.md)
   * [169. Majority Element](algorithm/leetcode.com/169.-majority-element.md)
   * [206.ReverseLinkedList](algorithm/leetcode.com/206.reverselinkedlist.md)
+  * [230. Kth Smallest Element in a BST](algorithm/leetcode.com/230.-kth-smallest-element-in-a-bst.md)
   * [237.DeleteNodeInALinkedList](algorithm/leetcode.com/237.deletenodeinalinkedlist.md)
   * [238.ProductOfArrayExceptSelf](algorithm/leetcode.com/238.productofarrayexceptself.md)
   * [283.MoveZeroes](algorithm/leetcode.com/283.movezeroes.md)

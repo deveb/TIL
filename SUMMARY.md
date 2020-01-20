@@ -5,7 +5,9 @@
 ## Algorithm
 
 * [leetcode](algorithm/leetcode.com/README.md)
+  * [1. Two Sum](algorithm/leetcode.com/1.-two-sum.md)
   * [22.GenerateParentheses](algorithm/leetcode.com/22.generateparentheses.md)
+  * [42. Trapping Rain Water](algorithm/leetcode.com/42.-trapping-rain-water.md)
   * [46.Permutations](algorithm/leetcode.com/46.permutations.md)
   * [48. Rotate Image](algorithm/leetcode.com/48.-rotate-image.md)
   * [78.Subsets](algorithm/leetcode.com/78.subsets.md)

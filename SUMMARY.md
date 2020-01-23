@@ -6,6 +6,7 @@
 
 * [leetcode](algorithm/leetcode.com/README.md)
   * [1. Two Sum](algorithm/leetcode.com/1.-two-sum.md)
+  * [2. Add Two Numbers](algorithm/leetcode.com/2.-add-two-numbers.md)
   * [22.GenerateParentheses](algorithm/leetcode.com/22.generateparentheses.md)
   * [42. Trapping Rain Water](algorithm/leetcode.com/42.-trapping-rain-water.md)
   * [46.Permutations](algorithm/leetcode.com/46.permutations.md)
@@ -17,6 +18,7 @@
   * [145. Binary Tree Postorder Traversal](algorithm/leetcode.com/145.-binary-tree-postorder-traversal.md)
   * [146. LRU Cache](algorithm/leetcode.com/146.-lru-cache.md)
   * [169. Majority Element](algorithm/leetcode.com/169.-majority-element.md)
+  * [200. Number of Islands](algorithm/leetcode.com/200.-number-of-islands.md)
   * [206.ReverseLinkedList](algorithm/leetcode.com/206.reverselinkedlist.md)
   * [230. Kth Smallest Element in a BST](algorithm/leetcode.com/230.-kth-smallest-element-in-a-bst.md)
   * [237.DeleteNodeInALinkedList](algorithm/leetcode.com/237.deletenodeinalinkedlist.md)

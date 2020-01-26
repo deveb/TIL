@@ -7,6 +7,7 @@
 * [leetcode](algorithm/leetcode.com/README.md)
   * [1. Two Sum](algorithm/leetcode.com/1.-two-sum.md)
   * [2. Add Two Numbers](algorithm/leetcode.com/2.-add-two-numbers.md)
+  * [4. Median of Two Sorted Arrays](algorithm/leetcode.com/4.-median-of-two-sorted-arrays.md)
   * [5. Longest Palindromic Substring](algorithm/leetcode.com/5.-longest-palindromic-substring.md)
   * [22.GenerateParentheses](algorithm/leetcode.com/22.generateparentheses.md)
   * [42. Trapping Rain Water](algorithm/leetcode.com/42.-trapping-rain-water.md)

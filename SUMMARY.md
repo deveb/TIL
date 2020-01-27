@@ -10,6 +10,7 @@
   * [4. Median of Two Sorted Arrays](algorithm/leetcode.com/4.-median-of-two-sorted-arrays.md)
   * [5. Longest Palindromic Substring](algorithm/leetcode.com/5.-longest-palindromic-substring.md)
   * [20. Valid Parentheses](algorithm/leetcode.com/20.-valid-parentheses.md)
+  * [21. Merge Two Sorted Lists](algorithm/leetcode.com/21.-merge-two-sorted-lists.md)
   * [22.GenerateParentheses](algorithm/leetcode.com/22.generateparentheses.md)
   * [42. Trapping Rain Water](algorithm/leetcode.com/42.-trapping-rain-water.md)
   * [46.Permutations](algorithm/leetcode.com/46.permutations.md)

@@ -24,6 +24,7 @@
   * [146. LRU Cache](algorithm/leetcode.com/146.-lru-cache.md)
   * [169. Majority Element](algorithm/leetcode.com/169.-majority-element.md)
   * [200. Number of Islands](algorithm/leetcode.com/200.-number-of-islands.md)
+  * [202. Happy Number](algorithm/leetcode.com/202.-happy-number.md)
   * [206.ReverseLinkedList](algorithm/leetcode.com/206.reverselinkedlist.md)
   * [230. Kth Smallest Element in a BST](algorithm/leetcode.com/230.-kth-smallest-element-in-a-bst.md)
   * [237.DeleteNodeInALinkedList](algorithm/leetcode.com/237.deletenodeinalinkedlist.md)

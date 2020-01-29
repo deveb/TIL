@@ -9,6 +9,7 @@
   * [2. Add Two Numbers](algorithm/leetcode.com/2.-add-two-numbers.md)
   * [4. Median of Two Sorted Arrays](algorithm/leetcode.com/4.-median-of-two-sorted-arrays.md)
   * [5. Longest Palindromic Substring](algorithm/leetcode.com/5.-longest-palindromic-substring.md)
+  * [15. 3Sum](algorithm/leetcode.com/15.-3sum.md)
   * [20. Valid Parentheses](algorithm/leetcode.com/20.-valid-parentheses.md)
   * [21. Merge Two Sorted Lists](algorithm/leetcode.com/21.-merge-two-sorted-lists.md)
   * [22.GenerateParentheses](algorithm/leetcode.com/22.generateparentheses.md)

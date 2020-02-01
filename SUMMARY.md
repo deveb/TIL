@@ -14,6 +14,7 @@
   * [20. Valid Parentheses](algorithm/leetcode.com/20.-valid-parentheses.md)
   * [21. Merge Two Sorted Lists](algorithm/leetcode.com/21.-merge-two-sorted-lists.md)
   * [22.GenerateParentheses](algorithm/leetcode.com/22.generateparentheses.md)
+  * [23. Merge k Sorted Lists](algorithm/leetcode.com/23.-merge-k-sorted-lists.md)
   * [42. Trapping Rain Water](algorithm/leetcode.com/42.-trapping-rain-water.md)
   * [46.Permutations](algorithm/leetcode.com/46.permutations.md)
   * [48. Rotate Image](algorithm/leetcode.com/48.-rotate-image.md)

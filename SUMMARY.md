@@ -20,6 +20,7 @@
   * [48. Rotate Image](algorithm/leetcode.com/48.-rotate-image.md)
   * [53. Maximum Subarray](algorithm/leetcode.com/53.-maximum-subarray.md)
   * [56. Merge Intervals](algorithm/leetcode.com/56.-merge-intervals.md)
+  * [76. Minimum Window Substring](algorithm/leetcode.com/76.-minimum-window-substring.md)
   * [78.Subsets](algorithm/leetcode.com/78.subsets.md)
   * [84. Largest Rectangle in Histogram](algorithm/leetcode.com/84.-largest-rectangle-in-histogram.md)
   * [94.BinaryTreeInorderTraversal](algorithm/leetcode.com/94.binarytreeinordertraversal.md)

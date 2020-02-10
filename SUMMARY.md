@@ -38,6 +38,7 @@
   * [239. Sliding Window Maximum](algorithm/leetcode.com/239.-sliding-window-maximum.md)
   * [283.MoveZeroes](algorithm/leetcode.com/283.movezeroes.md)
   * [287. Find the Duplicate Number](algorithm/leetcode.com/287.-find-the-duplicate-number.md)
+  * [297. Serialize and Deserialize Binary Tree](algorithm/leetcode.com/297.-serialize-and-deserialize-binary-tree.md)
   * [300. Longest Increasing Subsequence](algorithm/leetcode.com/300.-longest-increasing-subsequence.md)
   * [347.TopKFrequentElements.](algorithm/leetcode.com/347.topkfrequentelements..md)
   * [1192. Critical Connections in a Network](algorithm/leetcode.com/1192.-critical-connections-in-a-network.md)

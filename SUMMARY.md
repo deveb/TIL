@@ -68,16 +68,18 @@
 * [Scope](js/scope.md)
 * [Event Loop](js/event-loop.md)
 
-## coursera
+## coursera, edx
 
-* [Probability and Statistics: To p or not to p?](coursera/probability-and-statistics.md)
-* [Algorithms Specializations](coursera/algorithms-specializations/README.md)
-  * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/README.md)
-    * [week 1](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-1/README.md)
-      * [karatsuba](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-1/karatsuba.md)
-    * [week 2](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-2/README.md)
-      * [inversions](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-2/inversions.md)
-    * [week 3](coursera/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-3.md)
+* [Probability and Statistics: To p or not to p?](coursera-edx/probability-and-statistics.md)
+* [Algorithms Specializations](coursera-edx/algorithms-specializations/README.md)
+  * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](coursera-edx/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/README.md)
+    * [week 1](coursera-edx/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-1/README.md)
+      * [karatsuba](coursera-edx/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-1/karatsuba.md)
+    * [week 2](coursera-edx/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-2/README.md)
+      * [inversions](coursera-edx/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-2/inversions.md)
+    * [week 3](coursera-edx/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-3.md)
+* [CS50x](coursera-edx/cs50x/README.md)
+  * [Lecture 0: Computational Thinking, Scratch](coursera-edx/cs50x/lecture-0-computational-thinking-scratch.md)
 
 ## Links
 

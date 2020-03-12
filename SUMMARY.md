@@ -48,6 +48,7 @@
   * [300. Longest Increasing Subsequence](algorithm/leetcode.com/300.-longest-increasing-subsequence.md)
   * [322. Coin Change](algorithm/leetcode.com/322.-coin-change.md)
   * [347.TopKFrequentElements.](algorithm/leetcode.com/347.topkfrequentelements..md)
+  * [380. Insert Delete GetRandom O\(1\)](algorithm/leetcode.com/380.-insert-delete-getrandom-o-1.md)
   * [1192. Critical Connections in a Network](algorithm/leetcode.com/1192.-critical-connections-in-a-network.md)
 * [programmers](algorithm/programmers.co.kr/README.md)
   * [Sort](algorithm/programmers.co.kr/sort.md)

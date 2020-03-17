@@ -88,7 +88,8 @@
     * [week 3](coursera-edx/algorithms-specializations/divide-and-conquer-sorting-and-searching-and-randomized-algorithms/week-3.md)
 * [CS50x](coursera-edx/cs50x/README.md)
   * [Lecture 0: Computational Thinking, Scratch](coursera-edx/cs50x/lecture-0-computational-thinking-scratch.md)
-  * [Lecture 1: C](coursera-edx/cs50x/lecture-1-c.md)
+  * [Lecture 1: C](coursera-edx/cs50x/lecture-1-c/README.md)
+    * [Problem set 1](coursera-edx/cs50x/lecture-1-c/problem-set-1.md)
 
 ## Links
 

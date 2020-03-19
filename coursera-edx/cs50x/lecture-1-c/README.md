@@ -63,9 +63,32 @@ declaration &gt; assignment == initialization
 
 ### Operators
 
+Arithmetic Operators: add, subtract, multiply, divide, modulus, \*=, ++
+
+Boolean expressions: true\(except zero\) or false\(zero\)
+
+* Logical operators: AND\(&&\), OR\(\|\|\), NOT\(!\)
+* Relational operators: &lt;, &lt;=, &gt; &gt;=, == !=
+
 ### Conditional Statements
 
+if\(boolean-expression\) { }
+
+if\(boolean-expression\) { } else { }
+
+if\(boolean-expression\) { } else if\(boolean-expression\)  { } else { }
+
+switch \(condition\) { case 1: break; case 2: break; default: }
+
+\(expr\) ? true : false
+
 ### Loops
+
+while \(boolean-experession\) { }
+
+do { } while \(boolean-expression\)
+
+for\(start; expr; increment\) { }
 
 ### Command Line
 

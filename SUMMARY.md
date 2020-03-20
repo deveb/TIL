@@ -28,6 +28,7 @@
   * [84. Largest Rectangle in Histogram](algorithm/leetcode.com/84.-largest-rectangle-in-histogram.md)
   * [94.BinaryTreeInorderTraversal](algorithm/leetcode.com/94.binarytreeinordertraversal.md)
   * [121. Best Time to Buy and Sell Stock](algorithm/leetcode.com/121.-best-time-to-buy-and-sell-stock.md)
+  * [124. Binary Tree Maximum Path Sum](algorithm/leetcode.com/124.-binary-tree-maximum-path-sum.md)
   * [138. Copy List with Random Pointer](algorithm/leetcode.com/138.-copy-list-with-random-pointer.md)
   * [142. Linked List Cycle II](algorithm/leetcode.com/142.-linked-list-cycle-ii.md)
   * [145. Binary Tree Postorder Traversal](algorithm/leetcode.com/145.-binary-tree-postorder-traversal.md)

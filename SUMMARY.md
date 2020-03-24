@@ -91,6 +91,7 @@
   * [Lecture 0: Computational Thinking, Scratch](coursera-edx/cs50x/lecture-0-computational-thinking-scratch.md)
   * [Lecture 1: C](coursera-edx/cs50x/lecture-1-c/README.md)
     * [Problem set 1](coursera-edx/cs50x/lecture-1-c/problem-set-1.md)
+  * [Lecture 2: Arrays](coursera-edx/cs50x/lecture-2-arrays.md)
 
 ## Links
 

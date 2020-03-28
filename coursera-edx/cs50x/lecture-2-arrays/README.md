@@ -29,3 +29,29 @@ encryption
 
 
 
+## Functions
+
+a black box with a set of 0+ inputs and 1 output.
+
+Function Declarations: return-type name\(argument-list\);
+
+Function Definition: almost identical to a function declaration.
+
+Function calls
+
+Function Miscellany
+
+## Arrays
+
+A block of contiguous space in memory.
+
+Array declarations: type name\[size\];
+
+instantiation syntax { }
+
+more than a single dimension
+
+In C, It is illegal to assign one array too another using assignment operator
+
+pass by value, pass by reference
+

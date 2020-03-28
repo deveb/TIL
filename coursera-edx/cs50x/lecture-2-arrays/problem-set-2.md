@@ -63,20 +63,13 @@ int main(void)
 #include <string.h>
 #include <cs50.h>
 
+bool validate(char *argv[]);
+
 int main(int argc, char *argv[])
 {
-    if (argv[1] == NULL || argv[2] != NULL)
-    {
+    if (!validate(argv)) {
         printf("Usage: ./caesar key\n");
         return 1;
-    }
-    for (int i = 0; i < strlen(argv[1]); i++)
-    {
-        if (argv[1][i] < '0' || argv[1][i] > '9')
-        {
-            printf("Usage: ./caesar key\n");
-            return 1;
-        }
     }
     int key = atoi(argv[1]);
     string text = get_string("plaintext: ");
@@ -98,6 +91,22 @@ int main(int argc, char *argv[])
     }
     printf("\n");
 }
+
+bool validate(char *argv[])
+{
+    if (argv[1] == NULL || argv[2] != NULL)
+    {
+        return false;
+    }
+    for (int i = 0; i < strlen(argv[1]); i++)
+    {
+        if (argv[1][i] < '0' || argv[1][i] > '9')
+        {
+            return false;
+        }
+    }
+    return true;
+}
 ```
 
 ```c
@@ -106,6 +115,8 @@ int main(int argc, char *argv[])
 #include <ctype.h>
 #include <cs50.h>
 
+bool validate(char *key);
+
 int main(int argc, char *argv[])
 {
     if (argv[1] == NULL || argv[2] != NULL)
@@ -113,21 +124,9 @@ int main(int argc, char *argv[])
         printf("Usage: ./substitution ke\ny");
         return 1;
     }
-    int index[26] = {0};
-    for (int i = 0; i < strlen(argv[1]); i++)
-    {
-        if ((argv[1][i] >= 'a' && argv[1][i] <= 'z') || (argv[1][i] >= 'A' && argv[1][i] <= 'Z'))
-        {
-            index[tolower(argv[1][i]) - 'a']++;
-        }
-    }
-    for (int i = 0; i < 26 ; i++)
-    {
-        if (index[i] != 1)
-        {
-            printf("Key must contain 26 characters.\n");
-            return 1;
-        }
+    if (!validate(argv[1])) {
+        printf("Key must contain 26 characters.\n");
+        return 1;
     }
     string key = argv[1];
     string text = get_string("plaintext: ");
@@ -149,5 +148,26 @@ int main(int argc, char *argv[])
     }
     printf("\n");
 }
+
+bool validate(char *key)
+{
+    int index[26] = {0};
+    for (int i = 0; i < strlen(key); i++)
+    {
+        if ((key[i] >= 'a' && key[i] <= 'z') || (key[i] >= 'A' && key[i] <= 'Z'))
+        {
+            index[tolower(key[i]) - 'a']++;
+        }
+    }
+    for (int i = 0; i < 26 ; i++)
+    {
+        if (index[i] != 1)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
 ```
 

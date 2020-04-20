@@ -54,9 +54,9 @@ test.csv: ground truth가 없다.
 
 ### 1. 제출을 해보자. gender\_submission.csv
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 ### 2. 코딩 환경: Notebook
 
@@ -64,11 +64,11 @@ test.csv: ground truth가 없다.
 
 새 노트북을 생성한다. 무료 GPU 접근을 제공한다.
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 데이터가 포함되어 있다.
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 ### 3. 코딩해보기
 
@@ -100,7 +100,7 @@ print("% of men who survived:", rate_men)
 
 random forest 모델을 적용해 보자. 이 모델은 여러개의 트리들로 구성되어 있다.
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 네개의 서로 다른 컬럼  \(**"Pclass"**, **"Sex"**, **"SibSp"**, and **"Parch"**\) 으로 패턴을 찾아 보자.
 
@@ -133,7 +133,7 @@ predictions = model.predict(X_test)
 
 ### 5. 제출
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 

@@ -66,6 +66,7 @@
 
 * [kaggle](ml/kaggle/README.md)
   * [Titanic: Machine Learning from Disaster](ml/kaggle/titanic-machine-learning-from-disaster.md)
+  * [San Francisco Crime Classification](ml/kaggle/san-francisco-crime-classification.md)
 
 ## WWW
 
@@ -93,6 +94,8 @@
     * [Problem set 1](coursera-edx/cs50x/lecture-1-c/problem-set-1.md)
   * [Lecture 2: Arrays](coursera-edx/cs50x/lecture-2-arrays/README.md)
     * [Problem set 2](coursera-edx/cs50x/lecture-2-arrays/problem-set-2.md)
+  * [Lecture 3: Algorithm](coursera-edx/cs50x/lecture-3-algorithm/README.md)
+    * [Problem set 3](coursera-edx/cs50x/lecture-3-algorithm/problem-set-3.md)
 
 ## Links
 

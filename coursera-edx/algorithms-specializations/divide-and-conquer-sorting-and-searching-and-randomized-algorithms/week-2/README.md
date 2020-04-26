@@ -65,7 +65,7 @@ cubic: N^3
 
 ### **The Master Method**
 
-![](../../../../.gitbook/assets/image%20%288%29.png)
+![](../../../../.gitbook/assets/image%20%2811%29.png)
 
 1. the runing time is the same as the running time in the recurrence outside of the recursive call, but pick up an extra log N factor. logarithm base doesn't matter.
 2. a is smaller than b to the d: dominated by what's done outside the recursion in the outermost call.
@@ -73,9 +73,9 @@ cubic: N^3
 
 ### Proof 1
 
-![](../../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../../.gitbook/assets/image%20%2819%29.png)
 
-![](../../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../../.gitbook/assets/image%20%2814%29.png)
 
 ![](../../../../.gitbook/assets/image%20%281%29.png)
 

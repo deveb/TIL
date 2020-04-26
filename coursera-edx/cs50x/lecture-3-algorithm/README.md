@@ -97,5 +97,5 @@ Worst: O\(nlogn\), Best: Ω \(nlogn\)
 
 ## Algorithm Summary
 
-![](../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2818%29.png)
 

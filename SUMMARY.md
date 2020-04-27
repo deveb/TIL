@@ -96,7 +96,8 @@
     * [Problem set 2](coursera-edx/cs50x/lecture-2-arrays/problem-set-2.md)
   * [Lecture 3: Algorithm](coursera-edx/cs50x/lecture-3-algorithm/README.md)
     * [Problem set 3](coursera-edx/cs50x/lecture-3-algorithm/problem-set-3.md)
-  * [Lecture 4: Memory](coursera-edx/cs50x/lecture-4-memory.md)
+  * [Lecture 4: Memory](coursera-edx/cs50x/lecture-4-memory/README.md)
+    * [Problem set 4](coursera-edx/cs50x/lecture-4-memory/problem-set-4.md)
 
 ## Links
 

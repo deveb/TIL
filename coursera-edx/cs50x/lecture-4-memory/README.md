@@ -77,7 +77,7 @@ Disk drives are just storage space. Manipulation and use of data can only take p
 
 Random Access Memory
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image%20%288%29.png)
 
 Pointers are just addresses  
 value is a memory address  
@@ -91,15 +91,15 @@ Dynamically allocated memory comes from a pool of memory known as the heap
 
 All memory we've been working with has been coming from a pool of memory known as the stack
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%285%29.png)
 
 `malloc()`
 
 Dynamically-allocated memory is not automatically returned to the system for later use.
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../../.gitbook/assets/image%20%2821%29.png)
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../../.gitbook/assets/image%20%2823%29.png)
 
 `free()`
 
@@ -116,11 +116,11 @@ When a function finishes its work, its frame is popped off of the stack, and the
 
 factorial
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../../.gitbook/assets/image%20%2830%29.png)
 
 ## File Pointers
 
 `FILE*`, `fopen()`, `fclose()`, `fgetc()`, `fputc()`, `fread()`, `fwrite()`
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../../.gitbook/assets/image%20%2833%29.png)
 

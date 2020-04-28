@@ -113,3 +113,59 @@ void blur(int height, int width, RGBTRIPLE image[height][width])
 
 ```
 
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+
+    // Ensure user ran program with two words at prompt
+    if (argc != 2)
+    {
+        fprintf(stderr, "Usage: recover infile\n");
+        return 1;
+    }
+    // Open file
+    FILE *file = fopen(argv[1], "r");
+    if (file == NULL)
+    {
+        return 1;
+    }
+
+    unsigned char bytes[3] = { 0, };
+    unsigned char byte[1] = { 0 };
+    int count = 0;
+    char output[8] = {'0', '0', '0', '.', 'j', 'p', 'g', '\0'};
+    FILE *outptr = NULL;
+    
+    while (feof(file) == 0)
+    {
+        fread(byte, sizeof(char), 1, file);
+        bytes[0] = bytes[1];
+        bytes[1] = bytes[2];
+        bytes[2] = byte[0];
+        // printf("%X %X %X\n", bytes[0], bytes[1], bytes[2]);
+
+        // Check if bytes are 0xff 0xd8 0xff
+        if (bytes[0] == 0xff && bytes[1] == 0xd8 && bytes[2] == 0xff)
+        {   
+            if (count > 9)
+            {
+                sprintf(&output[1], "%d", count / 10);
+            }
+            sprintf(&output[2], "%d.jpg", count % 10);
+            outptr = fopen(output, "a");
+            printf("%s\n", output);
+            count++;
+        }
+        if (outptr != NULL)
+        {
+            fputc(bytes[0], outptr);
+        }
+    }
+    fclose(file);
+}
+
+```
+

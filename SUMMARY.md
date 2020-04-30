@@ -100,6 +100,8 @@
     * [Problem set 4](coursera-edx-udacity/cs50x/lecture-4-memory/problem-set-4.md)
   * [Lecture 5: Data Structures](coursera-edx-udacity/cs50x/lecture-5-data-structures/README.md)
     * [Problem set 5](coursera-edx-udacity/cs50x/lecture-5-data-structures/problem-set-5.md)
+  * [Lecture 6: Python](coursera-edx-udacity/cs50x/lecture-6-python/README.md)
+    * [Problem set 6](coursera-edx-udacity/cs50x/lecture-6-python/problem-set-6.md)
 * [CS212 Design of Computer Programs](coursera-edx-udacity/cs212-design-of-computer-programs/README.md)
   * [Lesson 1](coursera-edx-udacity/cs212-design-of-computer-programs/lesson-1.md)
 

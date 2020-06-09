@@ -17,7 +17,7 @@ binary number를 표현할 수 있는가?
 
 step-by-step process for solving problem
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%282%29%20%281%29.png)
 
 N\(1024\)페이지의 주소책에서 Mike smith 찾기 
 
@@ -25,7 +25,7 @@ N\(1024\)페이지의 주소책에서 Mike smith 찾기
 * N/2번\(512\) `오류있음`
 * logN 번\(10\) - 1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 데이터가 클때 어떤 알고리즘이 효율적인가?
 

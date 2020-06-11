@@ -106,6 +106,8 @@
     * [Problem set 7](coursera-edx-udacity/cs50x/lecture-7-sql/problem-set-7.md)
 * [CS212 Design of Computer Programs](coursera-edx-udacity/cs212-design-of-computer-programs/README.md)
   * [Lesson 1](coursera-edx-udacity/cs212-design-of-computer-programs/lesson-1.md)
+* [Machine Learning](coursera-edx-udacity/machine-learning/README.md)
+  * [Week 1](coursera-edx-udacity/machine-learning/week-1.md)
 
 ## Links
 

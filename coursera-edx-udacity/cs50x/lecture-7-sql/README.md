@@ -57,3 +57,30 @@ Structured Query Language
 
 
 
+![](../../../.gitbook/assets/image%20%2828%29.png)
+
+Join
+
+### Indexes
+
+* PRIMARY KEY
+* FOREIGN KEY
+* UNIQUE
+* INDEX
+
+B-trees
+
+### Race condition
+
+* BEGIN TRANSACTION
+* COMMIT
+* ROLLBACK
+
+### SQL Injection attack
+
+
+
+
+
+
+

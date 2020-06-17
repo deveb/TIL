@@ -7,11 +7,14 @@ Structured Query Language
 * Update
 * Delete
 
-
+4 Operations
 
 * INSERT
 * SELECT
+  * SELECT &lt;columns&gt; FROM &lt;table&gt; WHERE &lt;predicate&gt; ORDER BY &lt;column&gt;
+  * SELECT &lt;columns&gt; FROM &lt;table1&gt; JOIN &lt;table2&gt; ON &lt;predicate&gt;
 * UPDATE
+  * UPDATE &lt;table&gt; SET &lt;column&gt; = &lt;value&gt; WHERE &lt;predicate&gt;
 * DELETE
 
 
@@ -57,7 +60,7 @@ Structured Query Language
 
 
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 Join
 

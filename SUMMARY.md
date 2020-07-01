@@ -68,6 +68,11 @@
   * [Titanic: Machine Learning from Disaster](ml/kaggle/titanic-machine-learning-from-disaster.md)
   * [San Francisco Crime Classification](ml/kaggle/san-francisco-crime-classification.md)
 
+## k8s
+
+* [setup](k8s/setup.md)
+* [dashboard](k8s/dashboard.md)
+
 ## WWW
 
 * [REST API](www/rest-api.md)
@@ -113,9 +118,4 @@
 
 * [personal webpage - eunb.it](http://eunb.it)
 * [github repo - deveb](https://github.com/deveb)
-
-## k8s
-
-* [setup](k8s/setup.md)
-* [dashboard](k8s/dashboard.md)
 

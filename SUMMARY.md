@@ -114,3 +114,8 @@
 * [personal webpage - eunb.it](http://eunb.it)
 * [github repo - deveb](https://github.com/deveb)
 
+## k8s
+
+* [setup](k8s/setup.md)
+* [dashboard](k8s/dashboard.md)
+

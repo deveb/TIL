@@ -72,6 +72,7 @@
 
 * [setup](k8s/setup.md)
 * [dashboard](k8s/dashboard.md)
+* [voting app](k8s/voting-app.md)
 
 ## WWW
 

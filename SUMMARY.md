@@ -115,6 +115,7 @@
   * [Lesson 1](coursera-edx-udacity/cs212-design-of-computer-programs/lesson-1.md)
 * [Machine Learning](coursera-edx-udacity/machine-learning/README.md)
   * [Week 1](coursera-edx-udacity/machine-learning/week-1.md)
+  * [Week 2](coursera-edx-udacity/machine-learning/untitled.md)
 
 ## Links
 

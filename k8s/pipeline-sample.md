@@ -84,7 +84,7 @@ $ sudo docker run -dit --name myapp \
   -e DB_NAME=pipeline-sample \
   -e DB_USERNAME=postgres \
   -e DB_PASSWORD=postgres \
-  -p 8080:5000 python-application:0.0.1
+  -p 8080:5000 python-application
 
 ```
 
@@ -113,9 +113,29 @@ $ curl -sfL https://get.k3s.io | sh -
 
 ### Pod 생성
 
+#### [kustomization.yaml](https://kubernetes.io/ko/docs/tasks/manage-kubernetes-objects/kustomization/#%EA%B5%AC%EC%84%B1)
+
+```text
+$ sudo kubectl kustomize k8s/
+```
+
 #### Deployment 생성
 
 ```text
+$ sudo kubectl create namespace pipeline-sample
+$ sudo kubectl apply --record -k ./k8s/
+```
 
+생성 확인
+
+```text
+$ sudo kubectl get pod --namespace=pipeline-sample
+$ sudo kubectl get services  --namespace=pipeline-sample
+$ sudo kubectl describe pod --namespace=pipeline-sample
+```
+
+```text
+$ sudo kubectl logs -n pipeline-sample python-application-docker-deployment-66768fb9cc-8rb
+$ sudo kubectl describe pod -n pipeline-sample python-application-docker-deployment-66768fb9cc-8rbsm
 ```
 

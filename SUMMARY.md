@@ -49,6 +49,7 @@
   * [297. Serialize and Deserialize Binary Tree](algorithm/leetcode.com/297.-serialize-and-deserialize-binary-tree.md)
   * [300. Longest Increasing Subsequence](algorithm/leetcode.com/300.-longest-increasing-subsequence.md)
   * [322. Coin Change](algorithm/leetcode.com/322.-coin-change.md)
+  * [334. Increasing Triplet Subsequence](algorithm/leetcode.com/334.-increasing-triplet-subsequence.md)
   * [347.TopKFrequentElements.](algorithm/leetcode.com/347.topkfrequentelements..md)
   * [380. Insert Delete GetRandom O\(1\)](algorithm/leetcode.com/380.-insert-delete-getrandom-o-1.md)
   * [1192. Critical Connections in a Network](algorithm/leetcode.com/1192.-critical-connections-in-a-network.md)

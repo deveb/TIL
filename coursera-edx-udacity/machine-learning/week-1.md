@@ -32,7 +32,7 @@ $$
 h_\theta(x) = \theta_0 + \theta_1x
 $$
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/H6qTdZmYEeaagxL7xdFKxA_2f0f671110e8f7446bb2b5b2f75a8874_Screenshot-2016-10-23-20.14.58.png?expiry=1592006400000&hmac=652DZofqEoRM5eVCKtrqSMJrRaCTL-MY4GusNoS1qrw)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 **Cost function** can measure the accuracy of our hypothesis function
 

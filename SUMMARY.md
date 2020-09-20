@@ -70,12 +70,20 @@
     * [2017 SummerCoding](algorithm/programmers.co.kr/summer-winter-coding-2018/2017-summercoding.md)
     * [2018 SummerCoding](algorithm/programmers.co.kr/summer-winter-coding-2018/2018-summercoding.md)
     * [2018 WinterCoding](algorithm/programmers.co.kr/summer-winter-coding-2018/2018-wintercoding.md)
+* [kaggle](algorithm/kaggle/README.md)
+  * [Titanic: Machine Learning from Disaster](algorithm/kaggle/titanic-machine-learning-from-disaster.md)
+  * [San Francisco Crime Classification](algorithm/kaggle/san-francisco-crime-classification.md)
 
-## ML
+## .NET, C\#
 
-* [kaggle](ml/kaggle/README.md)
-  * [Titanic: Machine Learning from Disaster](ml/kaggle/titanic-machine-learning-from-disaster.md)
-  * [San Francisco Crime Classification](ml/kaggle/san-francisco-crime-classification.md)
+* [.NET Framework](.net-c/.net-framework.md)
+
+## WWW, JS
+
+* [REST API](www-js/rest-api.md)
+* [Google JSON Style Guide](www-js/google-json-style-guide.md)
+* [Scope](www-js/scope.md)
+* [Event Loop](www-js/event-loop.md)
 
 ## k8s
 
@@ -83,16 +91,6 @@
 * [dashboard](k8s/dashboard.md)
 * [voting app](k8s/voting-app.md)
 * [pipeline sample](k8s/pipeline-sample.md)
-
-## WWW
-
-* [REST API](www/rest-api.md)
-* [Google JSON Style Guide](www/google-json-style-guide.md)
-
-## JS
-
-* [Scope](js/scope.md)
-* [Event Loop](js/event-loop.md)
 
 ## coursera, edx, udacity
 

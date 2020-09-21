@@ -77,6 +77,7 @@
 ## .NET, C\#
 
 * [.NET Framework](.net-c/.net-framework.md)
+* [Blazor](.net-c/blazor.md)
 
 ## WWW, JS
 
